@@ -23,3 +23,4 @@ elif option == 'quit':
     break
 
 print(calendar.month(current_year, current_month))
+
