@@ -1,7 +1,7 @@
 import requests
 import json
-api_key = "YOUR_API_KEY"
-base_url = "YOUR_API_URL"
+api_key = "API_KEY"
+base_url = "API_URL"
 option = input("Enter 'current' to get weather for your current location or 'city' to enter a specific city: ")
 
 if option == 'current':
